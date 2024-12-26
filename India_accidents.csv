@@ -1,0 +1,14 @@
+Item,Category,2002-03-Killed,2002-03-Injured,2003-04-Killed,2003-04-Injured,2004-05-Killed,2004-05-Injured,2005-06-Killed,2005-06-Injured,2006-07-Killed,2006-07-Injured,2007-08-Killed,2007-08-Injured,2008-09-Killed,2008-09-Injured,2009-10-Killed,2009-10-Injured,2010-11-Killed,2010-11-Injured,2011-12-Killed,2011-12-Injured,2012-13-Killed,2012-13-Injured,2013-14-Killed,2013-14-Injured,2014-15-Killed,2014-15-Injured
+A.Passengers,Total,251,951,138,599,118,360,346,688,204,665,134,667,200,651,115,427,291,544,174,911,203,731,602,450,710,1000
+A.Passengers,"I. In train accidents, failures of Railway equipment and misc. accidents",157,658,84,279,35,86,168,483,38,227,9,245,52,257,67,253,235,358,100,586,60,248,42,94,118,324
+A.Passengers,II. In unusual occurrences caused by movement of railway vehicles exclusive of train accidents etc.,94,293,54,320,83,274,178,205,166,430,125,405,146,367,46,162,54,179,73,317,142,481,546,344,533,617
+A.Passengers,III. In unusual occurrences on railway premises not connected with the movement of railway velicles,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,NA,17,2,27,2,12,2,7,1,8,1,2,14,12,59,59
+B.Railway servants,Total,143,1181,77,1017,85,841,109,341,109,386,113,335,77,324,58,264,51,344,57,210,44,280,179,228,177,280
+B.Railway servants,"I. In train accidents, failures of Railway equipment and misc. accidents",29,41,3,28,5,8,9,31,6,24,10,26,12,22,4,9,8,20,17,19,4,10,7,24,6,10
+B.Railway servants,II. In unusual occurrences caused by movement of railway vehicles exclusive of train accidents etc.,84,244,50,151,64,129,77,99,90,183,91,172,60,191,46,141,26,161,32,143,32,189,163,160,146,203
+B.Railway servants,III. In unusual occurrences on railway premises not connected with the movement of railway velicles,30,896,24,838,16,704,23,211,13,179,12,137,5,111,8,114,17,163,8,48,8,81,9,44,25,67
+C.Other persons (1),Total,1443,1844,2748,2217,2023,2984,3265,3438,3882,4024,4102,4387,4575,4721,3824,4027,3613,4246,3766,4166,3818,4220,4022,4189,1968,1631
+C.Other persons (1),"I. In train accidents, failures of Railway equipment and misc. accidents",232,283,155,159,181,209,138,113,166,156,172,135,145,165,167,135,138,85,202,111,140,102,103,116,168,107
+C.Other persons (1),II. In unusual occurrences caused by movement of railway vehicles exclusive of train accidents etc.,1210,1561,2593,2058,1842,2775,3127,3325,3713,3866,3926,4252,4428,4555,3654,3890,3471,4151,3560,4048,3674,4108,3913,4058,1657,1499
+C.Other persons (1),III. In unusual occurrences on railway premises not connected with the movement of railway velicles,1,NA,NA,NA,NA,NA,NA,NA,3,2,4,NA,2,1,3,2,4,10,4,7,4,10,6,15,143,25
+Grand total (A+B+C),Grand total (A+B+C),1837,3976,2963,3833,2226,4185,3720,4467,4195,5075,4349,5389,4852,5696,3997,4718,3955,5134,3997,5287,4065,5231,4803,4867,2855,2911
