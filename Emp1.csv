@@ -1,0 +1,51 @@
+EmployeeID,ManagerID,Title,MaritalStatus,Gender,HireDate,Dept,Job Grade
+1,16,Gustavo Achong,M,M,02-02-2013 00:00,Sales,Admin
+2,6,Catherine Abel,S,M,31-08-2013 00:00,Sales,Management
+3,12,Kim Abercrombie,M,M,16-06-2014 00:00,Finance,Admin
+4,3,Humberto Acevedo,S,M,10-07-2014 00:00,Logistics,Admin
+5,263,Pilar Ackerman,M,M,16-07-2014 00:00,Human Resource,Admin
+6,109,Frances Adams,S,M,25-07-2014 00:00,Sales,Management
+7,21,Margaret Smith,S,F,31-07-2014 00:00,Sales,Operations
+8,185,Carla Adams,M,F,11-08-2014 00:00,Finance,Management
+9,3,Jay Adams,M,F,11-08-2014 00:00,Finance,Admin
+10,185,Ronald Adina,S,M,12-08-2014 00:00,Logistics,Admin
+11,3,Samuel Agcaoili,M,M,29-08-2014 00:00,Logistics,Operations
+12,109,James Aguilar,S,F,05-09-2014 00:00,Human Resource,Operations
+13,185,Robert Ahlering,M,M,07-09-2014 00:00,Production,Operations
+14,21,François Ferrier,M,M,13-09-2014 00:00,Logistics,Admin
+15,185,Kim Akers,S,M,25-09-2016 00:00,Production,Admin
+16,21,Lili Alameda,S,F,02-10-2014 00:00,Production,Operations
+17,185,Amy Alberts,M,F,14-10-2014 00:00,Production,Operations
+18,21,Anna Albright,M,M,21-10-2016 00:00,Sales,Operations
+19,185,Milton Albury,M,F,01-11-2014 00:00,Sales,Admin
+20,173,Paul Alcorn,M,M,07-07-2015 00:00,Finance,Admin
+21,148,Gregory Alderson,M,M,07-07-2015 00:00,Production,Management
+22,197,J. Phillip Alexander,S,M,08-07-2015 00:00,Logistics,Operations
+23,197,Michelle Alexander,S,M,08-07-2015 00:00,Human Resource,Management
+24,184,Sean Jacobson,S,M,08-07-2015 00:00,Finance,Operations
+25,21,Phyllis Allen,S,M,09-07-2015 00:00,Production,Operations
+26,108,Marvin Allen,M,M,10-07-2015 00:00,Production,Admin
+27,87,Michael Allen,S,M,10-07-2015 00:00,Finance,Admin
+28,150,Cecil Allison,S,M,10-07-2015 00:00,Human Resource,Operations
+29,14,Oscar Alpuerto,M,M,11-07-2015 00:00,Finance,Operations
+30,140,Sandra Altamirano,M,F,12-07-2018 00:00,Production,Operations
+31,210,Selena Alvarado,S,M,12-07-2015 00:00,Production,Admin
+32,184,Emilio Alvaro,S,M,13-07-2018 00:00,Sales,Admin
+33,135,Maxwell Amland,S,M,13-07-2015 00:00,Sales,Operations
+34,85,Mae Anderson,S,F,13-07-2015 00:00,Finance,Operations
+35,85,Ramona Antrim,M,M,13-07-2017 00:00,Logistics,Admin
+36,38,Sabria Appelbaum,M,F,13-07-2015 00:00,Human Resource,Admin
+37,7,Hannah Arakawa,S,M,14-07-2015 00:00,Production,Management
+38,21,Kyley Arbelaez,S,M,14-07-2018 00:00,Production,Operations
+39,182,Tom Johnston,S,M,15-07-2015 00:00,Production,Operations
+40,159,Thomas Armstrong,M,F,15-07-2015 00:00,Finance,Operations
+41,200,John Arthur,M,M,15-07-2018 00:00,Sales,Admin
+42,109,Chris Ashton,S,F,17-07-2015 00:00,Logistics,Admin
+43,74,Teresa Atkinson,M,M,18-07-2018 00:00,Logistics,Admin
+44,148,John Ault,S,M,18-07-2015 00:00,Sales,Operations
+45,210,Robert Avalos,S,M,18-07-2017 00:00,Production,Admin
+46,6,Stephen Ayers,S,M,18-07-2015 00:00,Production,Operations
+47,30,Phillip Bacalzo,S,M,19-07-2018 00:00,Human Resource,Admin
+48,38,Daniel Blanco,S,M,20-07-2018 00:00,Finance,Management
+49,218,Cory Booth,M,M,20-07-2015 00:00,Finance,Management
+50,184,Mark Anderson,S,F,20-07-2015 00:00,Sales,Operations
